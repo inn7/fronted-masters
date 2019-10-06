@@ -1,0 +1,78 @@
+
+body{
+    background-color: black;
+}
+.upper{
+    background-color:maroon;
+   display: flex;
+    width: 100%;
+}
+.middle{
+    background-color:rgb(1, 1, 26);
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+    padding: 40px;
+}
+a:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.lower{
+    background-color: black;
+    
+    width: 100%;
+}
+.heading{
+    padding-right:400px; 
+}
+#p03{
+    text-align: right;
+}
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    padding: 2px;
+    text-align: right;
+    color: white;
+}
+.apps{
+    text-align: center;
+    background-color: black ;
+    color: white;
+}
+.logos{
+    background-color: black;
+}
+.last{
+    background-color: black;
+    color: white;  
+}
+p{
+    color: white;
+}
+.button1{
+    border-radius: 13px;
+    background-color: red;
+    font: 60px;
+    margin: 0px 0px 0px 0px 0px;
+    padding: 0px 20px;
+}
+.home{
+text-align: right;
+}
+.away{
+    text-align: center;
+}
+.login{
+    border-radius: 30px;
+    background-color: red;
+    font-size: 20px;
+    margin: 0px 0px 0px 0px 0px;
+    padding:  20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#p02{
+    text-align: right;
+}
